@@ -30,5 +30,6 @@ bash <(curl -L https://raw.githubusercontent.com/TinrLin/script_installation/mai
 
 # **BBR**
 - [How to Enable BBR in Debian 12/11/10](https://www.linuxcapable.com/how-to-enable-bbr-on-debian-linux/)
+-  There are BBR config in "install.sh", Always!
 
 
