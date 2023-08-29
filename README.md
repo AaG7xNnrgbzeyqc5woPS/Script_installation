@@ -27,3 +27,6 @@ bash <(curl -L https://raw.githubusercontent.com/TinrLin/script_installation/mai
 - **ShadowTLS V3**
 - **NaiveProxy**
 - **Shadowsocks**
+
+# BBR
+[How to Enable BBR in Debian 12/11/10](https://www.linuxcapable.com/how-to-enable-bbr-on-debian-linux/)
